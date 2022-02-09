@@ -12,5 +12,5 @@ These are data analysis projects that I've worked on using Python, SQL and excel
 
 ----
 
-To keep updating new projects through out the year
+To keep updating new projects throughout the year
 
