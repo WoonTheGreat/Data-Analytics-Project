@@ -7,8 +7,10 @@ These are data analysis projects that I've worked on using Python, SQL and excel
 1. NBA data - pulling data from basketball-reference.com, cleaning and reading graphs.
 
 2. Creating EDA app for reading CSV file, only using sweetviz by generating data and easy reading graphs.
+   https://share.streamlit.io/woonthegreat/project1/main/woon1.py
 
 3. Another type of eda app for reading CSV, using streamlit, pandas & matplotlib.
+   https://share.streamlit.io/woonthegreat/project2/main/woon2.py
 
 ----
 
