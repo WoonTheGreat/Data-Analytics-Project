@@ -8,10 +8,14 @@ These are data analysis projects that I've worked on using Python, SQL and excel
 
 2. Movie data analytics - cleaning data, identify relation between variables using visualization such as charts and plots  
 
-3. Creating EDA app for reading CSV file, only using sweetviz by generating data and easy reading graphs.
+3. Loan Data analysis - Using predictive models(Decision Trees and Random Forests) to deduce whether a borrower will pay back investors on the platform Lending Club.
+
+4. China GDP analysis - 
+
+5. Creating EDA app for reading CSV file, only using sweetviz by generating data and easy reading graphs.
    https://share.streamlit.io/woonthegreat/project1/main/woon1.py
 
-4. Another type of eda app for reading CSV, using streamlit, pandas & matplotlib.
+6. Another type of eda app for reading CSV, using streamlit, pandas & matplotlib.
    https://share.streamlit.io/woonthegreat/project2/main/woon2.py
 
 ----
