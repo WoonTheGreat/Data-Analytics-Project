@@ -10,7 +10,7 @@ These are data analysis projects that I've worked on using Python, SQL and excel
 
 3. Loan Data analysis - Using predictive models(Decision Trees and Random Forests) to deduce whether a borrower will pay back investors on the platform Lending Club.
 
-4. China GDP analysis - 
+4. China GDP analysis - Using non-linear regression graph to estimate China GDP
 
 5. Creating EDA app for reading CSV file, only using sweetviz by generating data and easy reading graphs.
    https://share.streamlit.io/woonthegreat/project1/main/woon1.py
